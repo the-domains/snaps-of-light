@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Snaps of Light]]></title>
         <description><![CDATA[Snaps of Light]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/snaps-of-light/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 19:27:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 19:59:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/snaps-of-light/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La Boca]]></title>
+            <description><![CDATA[<article><h1>La Boca</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c197d2f-c091-4c67-84f2-3941798ffb0b.png"></article>]]></description>
+            <link>https://thegrid.ai/snaps-of-light/la-boca/index.html</link>
+            <guid isPermaLink="false">2b802fd8-6725-4847-b6c0-9022d088d637</guid>
+            <pubDate>Mon, 11 Jan 2016 19:59:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf10bdb-bcca-4d07-9b5b-6c21a9743593.png">]]></description>
