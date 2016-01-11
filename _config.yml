@@ -1,0 +1,28 @@
+name: Snaps of Light
+favicon: null
+layout_spectrum: 0.5744760103989393
+typography_spectrum: 0.29759379918687046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.06177415465936065
+  lightness: 0.7619429086335003
+  saturation: 0.8074778204318136
+  rhythmicContrast: 0.013073778711259365
+purpose: []
